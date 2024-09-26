@@ -1,6 +1,6 @@
 import './style.css'
 import changeTextOnClick from './button'
-import $ from "jquery"
+import $ from 'jquery'
 
 $('#app').html(`
     <div class="box">

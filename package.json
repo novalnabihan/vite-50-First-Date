@@ -12,10 +12,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "jquery": "^3.7.1",
     "vite": "^5.4.7"
   },
   "engines": {
-    "node": "16.x"
+    "node": "20.x"
   },
   "build": {
     "env": {
